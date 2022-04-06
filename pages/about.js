@@ -26,7 +26,7 @@ const About = () => {
                 <br />
                 <p>Utilizei o styled components em vez de css modules. Apenas na hora de colocar as cores no tipo de pokemon que precisei usar o css modules, pois não consegui fazer usando o styled components.</p>
                 <br />
-                <p>Agradecimentos especiais ao professor <strong>Thiago M. Medeiros</strong> que me introduziu no Universo da Programação através do seu excelente curso <strong>Formação Full Stack JavaScript</strong>.</p>
+                <p>Agradecimento especial ao professor <strong>Thiago M. Medeiros</strong> que me introduziu no Universo da Programação através do seu excelente curso <strong>Formação Full Stack JavaScript</strong>.</p>
                 <br />
                 Gratidão.
             </Text>
